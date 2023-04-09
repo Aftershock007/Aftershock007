@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Arijit Biswas (MrAftershock)
+- 👋 Hi, I’m Arijit Biswas
 - 👀 Programming is Fun
-- 🌱 I’m currently learning Web Dev, Android Dev & DSA 
+- 🌱 I’m currently learning Web Dev & DSA 
 - 📫 My mail Id is biswasarijit8017652954@gmail.com
-
