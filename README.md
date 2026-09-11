@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Arijit Biswas
 - 👀 Programming is Fun
-- 🌱 I’m currently learning React JS & brush up my DSA skills
-- 📫 My mail Id is biswasarijit8017652954@gmail.com
